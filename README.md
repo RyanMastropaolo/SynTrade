@@ -415,6 +415,5 @@ See `requirements.txt` for the complete list.
 ## Contact
 
 email: ryanmastropaolo2022@gmail.com
-phone: 516-456-7745
 linkedin: https://www.linkedin.com/in/ryan-mastropaolo/
 
