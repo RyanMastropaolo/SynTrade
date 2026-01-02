@@ -175,7 +175,7 @@ ALPHA_VANTAGE_API_KEY=your_alpha_vantage_api_key_here
 
 **Free tier**: Free tier includes limited API calls per month. Paid plans available for higher limits.
 
-**⚠️ Important for Backtesting**: A **paid version of NewsAPI is required** for accessing historical news data needed for backtesting. The free tier typically only provides recent news articles and may not support historical date queries required when running the pipeline with the `--date` flag or when backtesting on historical data.
+**Important for Backtesting**: A **paid version of NewsAPI is required** for accessing historical news data needed for backtesting. The free tier typically only provides recent news articles and may not support historical date queries required when running the pipeline with the `--date` flag or when backtesting on historical data.
 
 **Note**: NewsAPI.ai is different from NewsAPI.org. Make sure you're using NewsAPI.ai (Event Registry).
 
@@ -414,6 +414,6 @@ See `requirements.txt` for the complete list.
 
 ## Contact
 
-email: ryanmastropaolo2022@gmail.com
+email: ryanmastropaolo2022@gmail.com \
 linkedin: https://www.linkedin.com/in/ryan-mastropaolo/
 
