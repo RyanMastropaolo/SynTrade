@@ -50,7 +50,7 @@ def main():
     END_DATE = datetime(2025, 12, 15)
     
     # Create output directories
-    output_dir = Path(__file__).parent.parent / "new_baseline_backtest_results"
+    output_dir = Path(__file__).parent.parent / "baseline_backtest_results"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("=" * 70)
